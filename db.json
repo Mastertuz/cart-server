@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "img": "mac-pro.jpg",
+      "title": "Mac Pro",
+      "count": 1,
+      "price": 35000,
+      "priceTotal": 35000,
+      "id": 8
+    },
+    {
+      "img": "apple-watch.jpg",
+      "title": "Mac Pro",
+      "count": 1,
+      "price": 9000,
+      "priceTotal": 9000,
+      "id": 9
+    },
+    {
+      "img": "macbook.jpg",
+      "title": "Apple watch",
+      "count": 1,
+      "price": 22000,
+      "priceTotal": 22000,
+      "id": 10
+    },
+    {
+      "img": "mac-pro.jpg",
+      "title": "Mac Pro",
+      "count": 1,
+      "price": 10000,
+      "priceTotal": 10000,
+      "id": 11
+    },
+    {
+      "img": "mac-pro.jpg",
+      "title": "macbook",
+      "count": 1,
+      "price": 10000,
+      "priceTotal": 10000,
+      "id": 12
+    },
+    {
+      "img": "apple-watch.jpg",
+      "title": "Apple watch",
+      "count": 1,
+      "price": 10000,
+      "priceTotal": 10000,
+      "id": 13
+    },
+    {
+      "img": "macbook.jpg",
+      "title": "macbook",
+      "count": 1,
+      "price": 10000,
+      "priceTotal": 10000,
+      "id": 14
+    },
+    {
+      "img": "mac-pro.jpg",
+      "title": "Mac Pro",
+      "count": 1,
+      "price": 22000,
+      "priceTotal": 22000,
+      "id": 15
+    }
+  ]
+}
